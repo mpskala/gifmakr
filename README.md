@@ -1,9 +1,5 @@
 # Gifmakr
 
-simple video to gif converter using FFmpeg.
-
-# COVID-19 Tracker
-
 ### [Live Site](https://vidtogif.netlify.app)
 
 ## Introduction
